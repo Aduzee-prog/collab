@@ -1,0 +1,11 @@
+/* Css Reset*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(./Images/josep-martins-0-c5T6meRuk-unsplash.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
